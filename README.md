@@ -38,3 +38,7 @@ Serve customers: Understand customer intention through inquiries and serve the c
 In the following repository, different NLP approaches will be tried for the sentimental Analysis
 
 etc.....
+
+To check More about NLP Dive more different Project folders...
+
+Author: Vipul Agrawal
